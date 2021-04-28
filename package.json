@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nystline/Nederbeek-modbot/issues"
   },
-  "homepage": "https://github.com/Nystline/Nederbeek-modbot#readme"
+  "homepage": "https://github.com/Nystline/Nederbeek-modbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
